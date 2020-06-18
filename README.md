@@ -5,7 +5,7 @@
 
 ---
 
-Link - https://github.com/Sayantan-world/Poke-Mate
+Link - https://sayantan-world.github.io/Poke-Mate/
 ---
 ---
 ### Contents
