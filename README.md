@@ -1,4 +1,4 @@
-# CSS_My_Site
+# Poké Mate
 ---
 
 **NOTE** :  This page has been created using HTML and CSS (Bootstrap) only and is a sample project.
