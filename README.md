@@ -1,7 +1,10 @@
 # CSS_My_Site
 ---
-**NOTE** :  This page has been created using HTML and basic CSS (Bootstrap) only and is a sample project.
+
+**NOTE** :  This page has been created using HTML and CSS (Bootstrap) only and is a sample project.
+
 ---
+
 Link - https://github.com/Sayantan-world/Poke-Mate
 ---
 ---
