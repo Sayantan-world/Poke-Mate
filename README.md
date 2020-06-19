@@ -1,7 +1,7 @@
 # Poké Mate
 ---
 
-**NOTE** :  This page has been created using HTML and CSS (Bootstrap) only and is a sample project.
+**NOTE** :  This page has been created using HTML and CSS (Bootstrap) only and is a sample project. This is just a design, don't expect buttons to actually work :P 
 
 ---
 
