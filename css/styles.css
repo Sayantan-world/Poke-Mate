@@ -16,6 +16,24 @@ h1 {
   font-weight: 900;
   text-align: center;
 }
+@media (max-width: 475px) {
+  h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    line-height: 1.5;
+    font-weight: 900;
+    text-align: center;
+  } 
+}
+@media (max-width: 320px) {
+  h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    font-weight: 900;
+    text-align: center;
+  }
+}
 
 h2 {
   font-family: 'Montserrat', sans-serif;
@@ -24,6 +42,24 @@ h2 {
   font-weight: bold;
   color: #ffffff;
   text-align: center;
+}
+@media (max-width: 475px) {
+  h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    line-height: 1.5;
+    font-weight: 900;
+    text-align: center;
+  } 
+}
+@media (max-width: 320px) {
+  h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+    font-weight: 900;
+    text-align: center;
+  }
 }
 
 h3 {
@@ -289,7 +325,7 @@ section .section-title {
   text-align: center;
   color: white;
   font-family: 'Montserrat', sans-serif;
-  font-size: 3.5rem;
+  font-size: 2.5rem;
   line-height: 1.5;
   font-weight: 900;
   padding-top: 7%;
